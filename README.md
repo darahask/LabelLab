@@ -74,7 +74,7 @@ You should fill in these values in their relevent fields in the `.env` file.
 
 Both the front-end and the back-end can be run from the `labellab-server` folder using the terminal:
 
-1. To run both the client and server with a single command, run the following:  
+1. To run both the client and server with a single command, run the following test change:  
    `$ npm run dev`
 
 2. To run the server separately:  
